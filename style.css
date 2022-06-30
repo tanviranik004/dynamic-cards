@@ -35,3 +35,31 @@ h1 {
 }
 
 /* posts ends here*/
+
+/*responsive parts starts here*/
+
+        @media screen and (max-width:992px) {
+    
+            .post {
+                width: 48%;
+            }
+            body {
+                background-color: rgb(212, 94, 31);
+            }
+            
+        }
+    
+        @media screen and (max-width:600px) {
+    
+            .post {
+                width: 100%;
+            }
+            
+            body {
+                background-color: aqua;
+            }
+    
+        }
+
+
+/*responsive parts ends here*/
