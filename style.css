@@ -39,13 +39,11 @@ h1 {
 /*responsive parts starts here*/
 
         @media screen and (max-width:992px) {
-    
             .post {
                 width: 48%;
-            }
-            body {
                 background-color: rgb(212, 94, 31);
             }
+            
             
         }
     
@@ -53,11 +51,10 @@ h1 {
     
             .post {
                 width: 100%;
-            }
-            
-            body {
                 background-color: aqua;
             }
+
+            
     
         }
 
